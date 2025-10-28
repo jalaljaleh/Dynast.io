@@ -1,4 +1,4 @@
-# 🌐 Dynast.io API & Tools
+# 🌐 Dynast.io & Admins & Moderaots & Youtubers & Developers
 
 Unofficial resources, libraries, and documentation for interacting with the **[Dynast.io](https://dynast.io/)** multiplayer survival game.  
 This repository is intended for developers, bot creators, and community builders who want to extend the Dynast.io experience with automation, stats tracking, or companion apps.
